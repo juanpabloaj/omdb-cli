@@ -12,6 +12,8 @@ setup(
     description="A command line tool for The Open Movie Database API",
     license="MIT",
     author="JuanPablo AJ",
+    author_email="jpabloaj@gmail.com",
+    url="https://github.com/juanpabloaj/omdb-cli",
     packages=find_packages(),
     install_requires=['omdb'],
     long_description=long_description,

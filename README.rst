@@ -1,12 +1,15 @@
-# omdb-cli
+omdb-cli
+========
 
 A command line tool for The Open Movie Database API ( `omdb`_), powered by `omdb.py`_
 
-## Usage
+Usage
+_____
 
 Search in omdb
 
 ::
+
     omdb -s 'A new hope'
 
 Search by imdb ID
